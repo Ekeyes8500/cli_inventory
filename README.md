@@ -1,9 +1,9 @@
 # cli_inventory
 
-#Introduction
+1. Introduction
 Welcome to the CLI inventory app! This app is merely a lightweight, proof of concept Node app that works with a MySQL database. Not only does it simulate an app that allows users to "buy" from the inventory, but it has another Manager interface that allows users to manage the inventory in their system.
 
-#Features
+2. Features
 
 bamazonCustomer.js is just a simple "buy" interface.
 
@@ -25,5 +25,5 @@ bamazonManager.js is a bit more robust, allowing the user to complete several ta
 
     4) "Add New Product" - Allows the user to create an entirely new product with stock levels
 
-#DEMO
+3. DEMO
     Video Link - https://youtu.be/HaEv5_XT1M8
